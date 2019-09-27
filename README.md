@@ -1,0 +1,2 @@
+# configserverproperties
+External property files
